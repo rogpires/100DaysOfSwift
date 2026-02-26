@@ -14,6 +14,10 @@ var age: Int = 10
 
 name = "Rogerio 2"
 
+//Arrays
+
+let colors = (["blue", "red", "orange", "pink"])
+print(colors[01])
 
 
 print(name)
