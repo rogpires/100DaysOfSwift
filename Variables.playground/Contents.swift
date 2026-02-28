@@ -19,6 +19,9 @@ name = "Rogerio 2"
 let colors = (["blue", "red", "orange", "pink"])
 print(colors[01])
 
+//Arrays Set
+
+let color2 = Set(["blue", "red", "orange", "pink"])
 
 print(name)
 print(age)
