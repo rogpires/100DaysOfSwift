@@ -23,6 +23,13 @@ print(colors[01])
 
 let color2 = Set(["blue", "red", "orange", "pink"])
 
+print(color2)
+
+//Tuplas
+var myName = (first: "Rogerius", last: "Pires", ages: 40)
+print(myName.first, myName.ages)
+
+
 print(name)
 print(age)
 print(burns)
