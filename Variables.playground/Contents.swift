@@ -14,6 +14,12 @@ var age: Int = 10
 
 name = "Rogerio 2"
 
+// Optionals
+var lastName: String?
+print(lastName ?? "")
+lastName = "Teste"
+print(lastName ?? "")
+
 //Arrays
 
 let colors = (["blue", "red", "orange", "pink"])
