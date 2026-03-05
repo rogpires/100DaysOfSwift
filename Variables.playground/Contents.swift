@@ -21,15 +21,20 @@ lastName = "Teste"
 print(lastName ?? "")
 
 //Arrays
-
 let colors = (["blue", "red", "orange", "pink"])
 print(colors[01])
 
 //Arrays Set
-
 let color2 = Set(["blue", "red", "orange", "pink"])
 
 print(color2)
+
+
+//Dictionary
+let heights = [
+    "Taylor Swift": 1.78,
+    "Ed Sheeran": 1.73
+]
 
 //Tuplas
 var myName = (first: "Rogerius", last: "Pires", ages: 40)
